@@ -22,5 +22,4 @@ The data includes the date-time, the pollution called PM2.5 concentration, and t
  
 The project includes:
 - A visualization part, where the time-series is explored through various plots
-- A simple forecasting part, in which, given the prior pollution level, we forecast the pollution level according to different forecasting methods (average, naive, seasonal naive, drift and Holt Winters forecasting)
-- An LSTM (long-short term memory) network, to forecast the pollution level based on other variables, to improve forecasting
+- A simple forecasting part, in which, given the prior pollution level, we forecast the pollution level according to different forecasting methods (average, naive, seasonal naive, drift and Holt Winters forecasting
