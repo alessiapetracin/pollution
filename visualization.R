@@ -2,6 +2,7 @@
 library(fpp2)
 library(tidyverse)    
 library(lubridate)
+library(ggplot2)
 
 # read csv
 data <- read.csv('/Users/alessia/Desktop/air.pollution/LSTM-Multivariate_pollution.csv')
