@@ -23,6 +23,4 @@ The data includes the date-time, the pollution called PM2.5 concentration, and t
 The project includes:
 - A visualization part, where the time-series is explored through various plots
 
-![trend_plot](https://github.com/alessiapetracin/pollution/assets/126952273/9fa3a6be-0cdc-4dad-b117-3c975388c79b)
-
 - A simple forecasting part, in which, given the prior pollution level, we forecast the pollution level according to different forecasting methods (average, naive, seasonal naive, drift and Holt Winters forecasting
