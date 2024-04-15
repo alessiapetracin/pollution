@@ -25,7 +25,8 @@ The project includes:
  
 - A forecasting part, in which, given the prior pollution level, we forecast the pollution level according to different forecasting methods (average, naive, seasonal naive, drift, Holt Winters, STL, cubic spline).
 
-![forecast](https://github.com/alessiapetracin/pollution/assets/126952273/af9067a0-29f9-4b04-baa4-13c3471b4e2f)
+![forecast](https://github.com/alessiapetracin/pollution/assets/126952273/f430127a-7df0-4143-9c6d-576b506ed6f0)
+
 
 - Forecasting through linear regression
 
