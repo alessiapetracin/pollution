@@ -21,11 +21,11 @@ The data includes the date-time, the pollution called PM2.5 concentration, and t
  ### The project ###
  
 The project includes:
-- A visualization part, where the time-series is explored through various plots for trends, seasonality and cicles. Seasonality is found to be present, with pollution levels increasing during winter months. A trend plot shows that air pollution tends to increase when dew increases, whereas it tends to decrease when the wind speed decreases. A correlation plot using the Spearman coefficient confirms the relation; furthermore, looking at trend plots, it is possible to observe that periods in which it snows more (winter months) are associated to higher air pollution levels.
-
-![trend_plots](https://github.com/alessiapetracin/pollution/assets/126952273/60fb37dd-2c18-489a-a4ad-777ffb31f0aa)
+- A visualization part, where the time-series is explored through various plots for trends, seasonality and cicles. Seasonality is found to be present, with pollution levels increasing during winter months and between 9 pm and 2 am. A trend plot shows that air pollution tends to increase when dew increases, whereas it tends to decrease when the wind speed decreases. A correlation plot using the Spearman coefficient confirms the relation; furthermore, looking at trend plots, it is possible to observe that periods in which it snows more (winter months) are associated to higher air pollution levels.
  
-- A simple forecasting part, in which, given the prior pollution level, we forecast the pollution level according to different forecasting methods (average, naive, seasonal naive, drift and Holt Winters forecasting
+- A forecasting part, in which, given the prior pollution level, we forecast the pollution level according to different forecasting methods (average, naive, seasonal naive, drift, Holt Winters, STL, cubic spline).
 
-![forecasting](https://github.com/alessiapetracin/pollution/assets/126952273/1a600a37-65ac-4254-9402-2d93fa7e2d9a)
+![forecast](https://github.com/alessiapetracin/pollution/assets/126952273/af9067a0-29f9-4b04-baa4-13c3471b4e2f)
+
+- Forecasting through linear regression
 
