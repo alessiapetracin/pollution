@@ -27,7 +27,7 @@ The project includes:
 
 ![forecast](https://github.com/alessiapetracin/pollution/assets/126952273/100909e0-e8df-4067-9848-7620bfd3dc85)
 
-- A linear regression part on the time series, with adequate transformations of the variables
+- A linear regression part on the time series, with adequate transformations of the variables.
 
-- A time series decomposition part, through 
+- A time series decomposition part, through moving averages, classical time-series decomposition (multiplicative and additive), X11, SEATS, STL.
 
